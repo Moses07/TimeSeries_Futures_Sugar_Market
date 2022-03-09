@@ -14,7 +14,9 @@ Commodity: Commodity
 Price: Price
 
 ## Data Analysis
-Arima results
-LSTM results
-PROPHET results
+>Arima results
+>LSTM results
+>PROPHET results
+
+
 ![image](https://user-images.githubusercontent.com/35813289/157551303-14d8f864-f25b-4ffd-aef8-b8a66a919fca.png)
