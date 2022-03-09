@@ -8,10 +8,12 @@ Every day the prices of basic commodities include rice, sugar, salt, herbs, etc.
 ## Dataset
 Source : 
 
-The data consists of xx csv files from January 20xx to December 20xx in the form of daily prices of basic commodities. The data is still not 100% clean and neat, so it needs cleansing and formatting. The data dictionary of the dataset is as follows:
+The data consists of 6 csv files from January 2012 to December 2018 in the form of daily prices of basic commodities. The data is still not 100% clean and neat, so it needs cleansing and formatting. The data dictionary of the dataset is as follows:
 date: Daily date
 Commodity: Commodity
 Price: Price
 
 ## Data Analysis
 Arima results
+LSTM results
+PROPHET results
