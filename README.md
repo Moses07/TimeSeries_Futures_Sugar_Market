@@ -10,6 +10,7 @@ Source :
 
 The data consists of 6 csv files from January 2012 to December 2018 in the form of daily prices of basic commodities. The data is still not 100% clean and neat, so it needs cleansing and formatting. The data dictionary of the dataset is as follows:
 date: Daily date
+#Y = (Auto-Regressive Parameters) +(degree of diferencing)+ (Moving Average Parameters)
 Commodity: Commodity
 Price: Price
 
