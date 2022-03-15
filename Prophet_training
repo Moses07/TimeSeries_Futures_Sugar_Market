@@ -1,0 +1,7 @@
+#Initial Training --------
+model = exp.create.model("prophet") 
+exp.plot_model(model) 
+
+#Tune Model --------
+tuned_model = exp.tune_model(model) 
+exp.plot_model(tuned_model)
