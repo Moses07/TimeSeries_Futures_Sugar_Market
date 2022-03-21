@@ -1,5 +1,5 @@
 # TimeSeries_Futures_Sugar_Market
-Time series prediction models such as ARIMA, LSTM, and Prophet to predict sugar prices in the futures sugar market
+Time series prediction models such as ARIMA, LSTM, and Prophet to predict sugar prices in the futures sugar market. Sugar No. 11 Futures | ICE
 
 ## Prediction of Sugar Commodity price 
 > Background
