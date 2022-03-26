@@ -3,7 +3,7 @@ Time series prediction models such as ARIMA, LSTM, and Prophet to predict sugar 
 
 ## Prediction of Sugar Commodity price 
 > Background
-Every day the prices of basic commodities include rice, sugar, salt, herbs, etc. experience increases and decreases, depending on the market or the laws of supply and demand, as well as the seasonality before holidays.
+Every day the prices of basic commodities experience increases and decreases, depending on the market or the laws of supply and demand, as well as the seasonality and weather condintions.
 
 ## Dataset
 Source : 
